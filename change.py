@@ -13,4 +13,3 @@ def change():
     print(f"\nVuelto\n")
     print(f"Pesos:\n{int(pesos)}")
     print(f"Centavos:\n{centavos}")
-change()
